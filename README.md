@@ -14,3 +14,9 @@ A Book Introduction to Machine Learning with Python
 - graphviz
 - nltk
 - spacy
+
+## interactive shell settings
+```
+from IPython.core.interactiveshell import InteractiveShell
+InteractiveShell.ast_node_interactivity = "all"
+```
