@@ -15,8 +15,16 @@ A Book Introduction to Machine Learning with Python
 - nltk
 - spacy
 
-## interactive shell settings
+## notebook importing 
 ```
+from IPython.display import display
+import numpy as np
+import matplotlib.pyplot as plt
+import pandas as pd
+import mglearn
+
 from IPython.core.interactiveshell import InteractiveShell
 InteractiveShell.ast_node_interactivity = "all"
+
+%matplotlib notebook
 ```
