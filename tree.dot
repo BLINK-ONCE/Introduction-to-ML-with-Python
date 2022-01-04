@@ -1,6 +1,5 @@
 digraph Tree {
-node [shape=box, style="filled", color="black", fontname="helvetica"] ;
-edge [fontname="helvetica"] ;
+node [shape=box, style="filled", color="black"] ;
 0 [label="worst radius <= 16.795\nsamples = 426\nvalue = [159, 267]\nclass = 양성", fillcolor="#afd7f4"] ;
 1 [label="worst concave points <= 0.136\nsamples = 284\nvalue = [25, 259]\nclass = 양성", fillcolor="#4ca6e8"] ;
 0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
