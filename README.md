@@ -8,11 +8,13 @@ import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
 import mglearn
+from sklearn.model_selection import train_test_split
 
 from IPython.core.interactiveshell import InteractiveShell
 InteractiveShell.ast_node_interactivity = "all"
 
 %matplotlib notebook
+%matplotlib inline
 ```
 
 
