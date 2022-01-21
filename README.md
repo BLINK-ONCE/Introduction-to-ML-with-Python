@@ -31,3 +31,6 @@ InteractiveShell.ast_node_interactivity = "all"
 - nltk
 - spacy
 
+
+## links
+- [상관 행렬과 공분산 행렬을 이해합시다.](https://ichi.pro/ko/sang-gwan-haenglyeolgwa-gongbunsan-haenglyeol-eul-ihaehabsida-233295835315234)
